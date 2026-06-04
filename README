@@ -1,0 +1,10 @@
+# Text Recognition Technique - Version 1
+
+This branch contains Version 1 of the text recognition project.
+
+## Files
+
+- main.py
+- image_process.py
+- ocr.py
+- utils.py
