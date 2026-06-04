@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+pytesseract>=0.3.10
+streamlit>=1.32.0
+easyocr>=1.7.2
+Pillow>=10.0.0
+streamlit-cropper>=0.3.1
